@@ -69,4 +69,4 @@ To decrypt a file you previously encrypted with this app, click on the "Decrypt 
   </br>
     
   # How to download
-  [You can get the installer from here,](executable/File-Locker_Installer.exe)
+  [You can get the installer from here,](executable/File_Locker_Installer.exe)
